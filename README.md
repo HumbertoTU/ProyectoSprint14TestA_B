@@ -16,3 +16,10 @@ Este proyecto analiza un experimento A/B para determinar si una nueva versión d
 - La versión original de la landing page mostró un rendimiento ligeramente superior.
 
 > Conclusión: no se recomienda hacer el cambio en producción basado en los datos actuales.
+
+## ⚙️ Cómo usar este repositorio
+
+Clona el repositorio con el siguiente comando:
+
+```bash
+git clone https://github.com/HumbertoTU/ProyectoSprint14TestA_B.git
